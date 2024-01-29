@@ -1,0 +1,4 @@
+https://drive.google.com/u/0/uc?id=1b75MBq7MbDQUc682IoECIekoRim_Ydk1&export=download
+
+
+wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1b75MBq7MbDQUc682IoECIekoRim_Ydk1' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1b75MBq7MbDQUc682IoECIekoRim_Ydk1" -O FILENAME && rm -rf /tmp/cookies.txt
